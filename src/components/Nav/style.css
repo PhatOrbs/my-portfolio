@@ -1,0 +1,10 @@
+.nav-wrapper {
+    background-color: grey;
+}
+
+#eddy-title {
+    background-color: teal;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 15px;
+}

@@ -1,0 +1,13 @@
+p {
+    font-family: 'Roboto';
+    text-align: center;
+
+}
+
+.pulse {
+    z-index: 9999;
+}
+
+.btn {
+    margin-top: 20px;
+}
