@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.2c06e081.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.5b929cc3.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.5b929cc3.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.df028674.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.bc46228a.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.bc46228a.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b7a87ec7.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b7a87ec7.js.map",
     "static/css/2.59405167.chunk.css": "/React-Portfolio/static/css/2.59405167.chunk.css",
-    "static/js/2.4c52ec75.chunk.js": "/React-Portfolio/static/js/2.4c52ec75.chunk.js",
-    "static/js/2.4c52ec75.chunk.js.map": "/React-Portfolio/static/js/2.4c52ec75.chunk.js.map",
+    "static/js/2.9253de8b.chunk.js": "/React-Portfolio/static/js/2.9253de8b.chunk.js",
+    "static/js/2.9253de8b.chunk.js.map": "/React-Portfolio/static/js/2.9253de8b.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.b7a14e2726d8f9eb06d8bd441e3d9c25.js": "/React-Portfolio/precache-manifest.b7a14e2726d8f9eb06d8bd441e3d9c25.js",
+    "precache-manifest.9052eff4a5e5c7d53fcfc6ac4695010d.js": "/React-Portfolio/precache-manifest.9052eff4a5e5c7d53fcfc6ac4695010d.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.59405167.chunk.css.map": "/React-Portfolio/static/css/2.59405167.chunk.css.map",
-    "static/css/main.2c06e081.chunk.css.map": "/React-Portfolio/static/css/main.2c06e081.chunk.css.map",
-    "static/js/2.4c52ec75.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4c52ec75.chunk.js.LICENSE.txt",
+    "static/css/main.df028674.chunk.css.map": "/React-Portfolio/static/css/main.df028674.chunk.css.map",
+    "static/js/2.9253de8b.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.9253de8b.chunk.js.LICENSE.txt",
     "static/media/Me.jpg": "/React-Portfolio/static/media/Me.005881dc.jpg",
+    "static/media/Nodejs_logo.png": "/React-Portfolio/static/media/Nodejs_logo.0ad84c18.png",
+    "static/media/Visualstudio_logo.png": "/React-Portfolio/static/media/Visualstudio_logo.ecb4784c.png",
     "static/media/cocktail_mixtape1.gif": "/React-Portfolio/static/media/cocktail_mixtape1.6dfed9ae.gif",
     "static/media/github-icon_cyan.png": "/React-Portfolio/static/media/github-icon_cyan.39fde425.png",
     "static/media/index.less": "/React-Portfolio/static/media/index.904d64fa.less",
@@ -27,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.b7a87ec7.js",
     "static/css/2.59405167.chunk.css",
-    "static/js/2.4c52ec75.chunk.js",
-    "static/css/main.2c06e081.chunk.css",
-    "static/js/main.5b929cc3.chunk.js"
+    "static/js/2.9253de8b.chunk.js",
+    "static/css/main.df028674.chunk.css",
+    "static/js/main.bc46228a.chunk.js"
   ]
 }
