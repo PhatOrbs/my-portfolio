@@ -10,6 +10,7 @@ import logo6 from "./Nodejs_logo.png";
 import logo7 from "./React_logo.png";
 import logo8 from "./Visualstudio_logo.png";
 
+
 function AboutMeCard() {
     return ( 
     <div className="col s12 m3 l3 offset-l1">
