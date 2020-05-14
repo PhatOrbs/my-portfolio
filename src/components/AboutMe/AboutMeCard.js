@@ -29,19 +29,19 @@ function AboutMeCard() {
           <div className="row">
             <div className="col s4 m4 l4">
             <a href="https://github.com/PhatOrbs" target="_blank">
-                    <img src={logo2} alt="logo" id="githubStyle" />
+                    <img src={logo2} alt="logo2" id="githubStyle" />
                     </a>
             </div>
             <div className="col s4 m4 l4">
             <a href="https://www.linkedin.com/in/eddy-collado-057532a8/" target="_blank">
 
-                    <img src={logo3} alt="logo2" id="linkedinStyle" />
+                    <img src={logo3} alt="logo3" id="linkedinStyle" />
                     </a>
             </div>
             <div className="col s4 m4 l4">
             <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1589164782432)/" target="_blank">
 
-                    <img src={logo1} alt="logo3" id="resumeStyle" />
+                    <img src={logo1} alt="logo1" id="resumeStyle" />
                     </a>
             </div>
             <div className="row">
@@ -53,16 +53,16 @@ function AboutMeCard() {
                       <img src={logo4} alt="logo4" id="csslogo" />
                     </div>
                     <div className="col s2 m2 l2">
-                      <img src={logo5} alt="logo4" id="jslogo" />
+                      <img src={logo5} alt="logo5" id="jslogo" />
                     </div>
                     <div className="col s2 m2 l2">
-                      <img src={logo6} alt="logo4" id="nodelogo" />
+                      <img src={logo6} alt="logo6" id="nodelogo" />
                     </div>
                     <div className="col s2 m2 l2">
-                      <img src={logo7} alt="logo4" id="reactlogo" />
+                      <img src={logo7} alt="logo7" id="reactlogo" />
                     </div>
                     <div className="col s2 m2 l2">
-                      <img src={logo8} alt="logo4" id="visualcodelogo" />
+                      <img src={logo8} alt="logo8" id="visualcodelogo" />
                     </div>
                   </div>
               </div>
