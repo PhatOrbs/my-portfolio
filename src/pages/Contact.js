@@ -1,10 +1,12 @@
-import React from "react";
+import React, { Component } from "react";
 import ContactCard from "../components/ContactCard/ContactCard";
 
-function Contact() {
-    return (
-        <ContactCard />
-    );
+class Contact extends Component {
+    render() {
+        return (
+            <ContactCard />
+        );
+    }
 }
 
 export default Contact;
