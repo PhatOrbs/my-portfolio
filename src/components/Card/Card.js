@@ -13,9 +13,6 @@ function Card() {
         <PortfolioCard />
         {/* <ConnectWithMe /> */}
         </div>
-        <div className="row">
-          {/* <ContactForm /> */}
-        </div>
         </div>
   );
 }
