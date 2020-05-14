@@ -4,6 +4,11 @@ import logo from "./Me.jpg";
 import logo1 from "./whiteresume.jpg";
 import logo2 from "./github-icon_cyan.png";
 import logo3 from "./linkedin_blue.png";
+import logo4 from "./CSS3_logo.png";
+import logo5 from "./Javascript_logo.png";
+import logo6 from "./Nodejs_logo.png";
+import logo7 from "./React_logo.png";
+import logo8 from "./Visualstudio_logo.png";
 
 function AboutMeCard() {
     return ( 
@@ -11,10 +16,15 @@ function AboutMeCard() {
       <div className="card black" id="aboutMeCard">
         <div className="card-content">
           <div classNAme="card-header">
-            
+
           </div>
             <div className="card-image">
+              <div className="col s7 offset-s3 m7 offset-m2 l8 offset-l2">
           <img src={logo} alt="logo"/>
+          </div>
+          <div className="card-header center" id="connectHeader">
+            <h4>Connect with me</h4>
+          </div>
           <div className="row">
             <div className="col s4 m4 l4">
             <a href="https://github.com/PhatOrbs" target="_blank">
@@ -28,10 +38,33 @@ function AboutMeCard() {
                     </a>
             </div>
             <div className="col s4 m4 l4">
-            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1586347457718)/" target="_blank">
+            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1589164782432)/" target="_blank">
 
                     <img src={logo1} alt="logo3" id="resumeStyle" />
                     </a>
+            </div>
+            <div className="row">
+                <div className="col s12 m12 l12">
+                  <div className="card-header center">
+                    <h4 className="topskillHead">Top Skills</h4>
+                    <br />
+                    <div className="col s2 m2 l2">
+                      <img src={logo4} alt="logo4" id="csslogo" />
+                    </div>
+                    <div className="col s2 m2 l2">
+                      <img src={logo5} alt="logo4" id="jslogo" />
+                    </div>
+                    <div className="col s2 m2 l2">
+                      <img src={logo6} alt="logo4" id="nodelogo" />
+                    </div>
+                    <div className="col s2 m2 l2">
+                      <img src={logo7} alt="logo4" id="reactlogo" />
+                    </div>
+                    <div className="col s2 m2 l2">
+                      <img src={logo8} alt="logo4" id="visualcodelogo" />
+                    </div>
+                  </div>
+              </div>
             </div>
           <span className="card-title"></span>
         </div>
