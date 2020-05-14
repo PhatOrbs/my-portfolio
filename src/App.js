@@ -33,7 +33,9 @@ function App() {
     // </div>
     <Router>
     <div>
-    <Nav />
+    <Nav>
+      <Route exact path="/contact" component={Contact} />
+    </Nav>
     <Wrapper>
       <Route exact path="/" component={Portfolio} />
       <Route exact path="/React-Portfolio" component={Portfolio} />
