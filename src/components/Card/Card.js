@@ -2,8 +2,8 @@ import React from "react";
 import "./style.css";
 import AboutMeCard from "../AboutMe/AboutMeCard";
 import PortfolioCard from "../PortfolioCard/PortfolioCard";
-import ConnectWithMe from "../ConnectWithMe/ConnectWithMe";
-import ContactForm from "../ContactForm/ContactForm";
+// import ConnectWithMe from "../ConnectWithMe/ConnectWithMe";
+// import ContactForm from "../ContactForm/ContactForm";
 
 function Card() {
   return (
@@ -11,10 +11,10 @@ function Card() {
       <div className="row">
         <AboutMeCard />
         <PortfolioCard />
-        <ConnectWithMe />
+        {/* <ConnectWithMe /> */}
         </div>
         <div className="row">
-          <ContactForm />
+          {/* <ContactForm /> */}
         </div>
         </div>
   );

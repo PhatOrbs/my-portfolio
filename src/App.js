@@ -1,4 +1,7 @@
 import React from 'react';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Portfolio from "./pages/Portfolio";
+import Contact from "./pages/Contact";
 import "materialize-css/dist/css/materialize.min.css";
 import logo from './logo.svg';
 import './App.css';
@@ -28,12 +31,16 @@ function App() {
     //     </a>
     //   </header>
     // </div>
+    <Router>
     <div>
     <Nav />
     <Wrapper>
-    </Wrapper>
+  <Route exact path="/" component={Portfolio} />
+  <Route exact path="/contact" component={Contact} />
+  </Wrapper>
     <Footer />
     </div>
+    </Router>
   );
 }
 

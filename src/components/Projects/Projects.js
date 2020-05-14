@@ -10,29 +10,32 @@ function Projects() {
         <div className="projectsContainer">
             <div className="row">
                 <div className="col s12 m6 l6">
-                    <div className="card">
+                    <div className="card black">
                         <div className="card-content">
-                            <div className="card-image">
-                                <a href="https://phatorbs.github.io/GUIsProject1/" target="_blank">
-                                <img src={logo1} alt="logo"
-                                alt="The Cocktail Mixtap App!" /></a>
-                                    <span className="card-title"></span>
+                            <div className="card-image waves-effect waves-block waves-light">
+                                <img className="activator" src={logo1} alt="logo"
+                                alt="The Cocktail Mixtap App!" />
+                                    <span className="card-title activator"></span>
                                     <div>
                                         <p>A theme finder app that helps you make a themed drink
                                         and suggests 3 playlists from Spotify to host for your party/theme.</p>
                                     </div>
-                                    <div class="card-footer" id="cocktailbtn">
-                                        <div class="btn-primary center-align">
+                                    <div className="card-footer" id="cocktailbtn">
+                                        <div className="btn-primary center-align">
                                             <a href="https://phatorbs.github.io/GUIsProject1/"
-                                                class="btn btn-primary app pulse" target="_blank">Cocktail Mixtape App</a>
+                                                className="btn btn-primary app pulse" target="_blank">Cocktail Mixtape App</a>
                                         </div>
                                     </div>
+                                    <div className="card-reveal">
+      <span className="card-title grey-text text-darken-4">Card Title<i className="material-icons right">close</i></span>
+      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div className="col s12 m6 l6">
-                    <div className="card">
+                    <div className="card black">
                         <div className="card-content">
                             <div className="card-image">
                             <a href="https://guis-electric-boogaloo.herokuapp.com/" target="_blank">
@@ -58,7 +61,7 @@ function Projects() {
 
             <div className="row">
             <div className="col s12 m6 l6">
-                <div className="card">
+                <div className="card black">
                 <div className="card-content">
                             <div className="card-image">
                             <a href="https://phatorbs.github.io/Homework6.0/" target="_blank">
@@ -81,7 +84,7 @@ function Projects() {
                 </div>
             </div>
             <div className="col s12 m6 l6">
-                <div className="card">
+                <div className="card black">
                 <div className="card-content">
                             <div className="card-image">
                             <a href="https://phatorbs.github.io/Homework5.0/" target="_blank">
