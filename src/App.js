@@ -38,7 +38,7 @@ function App() {
     </Nav>
     <Wrapper>
       <Route exact path="/" component={Portfolio} />
-      <Route exact path="/React-Portfolio" component={Portfolio} />
+      <Route exact path="/my-portfolio" component={Portfolio} />
       <Route exact path="/contact" component={Contact} />
   </Wrapper>
     <Footer />

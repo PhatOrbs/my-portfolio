@@ -23,28 +23,8 @@ function AboutMeCard() {
               <div className="col s7 offset-s3 m7 offset-m2 l8 offset-l2">
           <img src={logo} alt="logo"/>
           </div>
-          <div className="card-header center" id="connectHeader">
-            <h4>Connect with me</h4>
-          </div>
+
           <div className="row">
-            <div className="col s4 m4 l4">
-            <a href="https://github.com/PhatOrbs" target="_blank">
-                    <img src={logo2} alt="logo2" id="githubStyle" />
-                    </a>
-            </div>
-            <div className="col s4 m4 l4">
-            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/" target="_blank">
-
-                    <img src={logo3} alt="logo3" id="linkedinStyle" />
-                    </a>
-            </div>
-            <div className="col s4 m4 l4">
-            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1589164782432)/" target="_blank">
-
-                    <img src={logo1} alt="logo1" id="resumeStyle" />
-                    </a>
-            </div>
-            <div className="row">
                 <div className="col s12 m12 l12">
                   <div className="card-header center">
                     <h4 className="topskillHead">Top Skills</h4>
@@ -67,7 +47,28 @@ function AboutMeCard() {
                   </div>
               </div>
             </div>
-          <span className="card-title"></span>
+          
+          <div className="card-header center" id="connectHeader">
+            <h4>Connect with me</h4>
+          </div>
+          <div className="row">
+            <div className="col s4 m4 l4">
+            <a href="https://github.com/PhatOrbs" target="_blank">
+                    <img src={logo2} alt="logo2" id="githubStyle" />
+                    </a>
+            </div>
+            <div className="col s4 m4 l4">
+            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/" target="_blank">
+
+                    <img src={logo3} alt="logo3" id="linkedinStyle" />
+                    </a>
+            </div>
+            <div className="col s4 m4 l4">
+            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1589164782432)/" target="_blank">
+
+                    <img src={logo1} alt="logo1" id="resumeStyle" />
+                    </a>
+            </div>
         </div>
           <p className="aboutmeStyle">With 4 years of experience creating in Adobe Suite and 2 years experience in web development, 
             I can utilize both a technical and creative background to provide strong problem solving, 
