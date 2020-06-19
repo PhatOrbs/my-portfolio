@@ -76,7 +76,7 @@ function AboutMeCard() {
             <br />
             <br />
             I have had a passion for tech since I was a child and have never felt more excited than now in moving forward in my career path in tech.
-            I am readlily available by email: eddcollado@gmail.com or by phone number: 9548042372.</p>
+            I am readlily available by email: eddcollado@gmail.com</p>
         </div>
         </div>
         </div>

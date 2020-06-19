@@ -1,68 +1,75 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+  
 
-In the project directory, you can run:
+  ![badge](https://img.shields.io/github/languages/count/PhatOrbs/Homework9.0)
+  ![badge](https://img.shields.io/github/languages/top/PhatOrbs/Homework9.0)
+  ![badge](https://img.shields.io/badge/Generated%20By%3A-README.MD%20Generator-brightgreen)
+  ![badge](https://img.shields.io/badge/build-passing-blueviolet)
+  
 
-### `yarn start`
+  # My React Portfolio
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  ## Contributors:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  ![Profile Image](https://avatars3.githubusercontent.com/u/55727894?v=4)
 
-### `yarn test`
+  Eddy Collado
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  * Github Username: :pizza: PhatOrbs
 
-### `yarn build`
+  * Location: Denver, Colorado
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  * Email: eddcollado@gmail.com 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  * Bio: Full Stack Web Developer with a bachelors degree in Graphic Design. Strong attributes in all aspects of traditional print and modern digital design.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ## Description 
 
-### `yarn eject`
+  :cake: My portfolio created using React components, Materialize CSS libraries and deployed through GitHub pages
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  ![Readme Demo](myportfolio.PNG)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ## Table of Contents 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  * [Installation](#installation) 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  * [Usage](#usage) 
 
-## Learn More
+  * [Contributors](#contributors) 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  * [License](#license) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  * [Tests](#tests) 
 
-### Code Splitting
+  * [Questions](#questions) 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+  ## Installation 
 
-### Analyzing the Bundle Size
+  No need to install, just click the link above to view my profile 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+  ## Usage 
 
-### Making a Progressive Web App
+  :bacon: To present my line of work 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+  ## License 
 
-### Advanced Configuration
+  :trophy: N/A 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+  ## Credit 
 
-### Deployment
+  Phat Orbs 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+  ## Contributing 
 
-### `yarn build` fails to minify
+  :scorpion:  
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+  ## Tests 
+
+   
+
+  ## Questions 
+
+   
+
+  :key: :key: :key: :key: :key: 
+
