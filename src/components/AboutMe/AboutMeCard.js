@@ -64,7 +64,7 @@ function AboutMeCard() {
                     </a>
             </div>
             <div className="col s4 m4 l4">
-            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1589164782432)/" target="_blank">
+            <a href="https://www.linkedin.com/in/eddy-collado-057532a8/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABbb_MMB30yLQcpJpwlpMxe2RCsZu7e3rBc,1592440135927)/" target="_blank">
 
                     <img src={logo1} alt="logo1" id="resumeStyle" />
                     </a>
