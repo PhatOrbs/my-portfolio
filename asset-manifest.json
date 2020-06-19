@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.df028674.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.abf31164.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.abf31164.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.e8d891c1.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.8b9511b0.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.8b9511b0.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.f6d94e01.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.f6d94e01.js.map",
     "static/css/2.59405167.chunk.css": "/my-portfolio/static/css/2.59405167.chunk.css",
     "static/js/2.9253de8b.chunk.js": "/my-portfolio/static/js/2.9253de8b.chunk.js",
     "static/js/2.9253de8b.chunk.js.map": "/my-portfolio/static/js/2.9253de8b.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.e2f9803bcee1d0df21be5a93779e2a96.js": "/my-portfolio/precache-manifest.e2f9803bcee1d0df21be5a93779e2a96.js",
+    "precache-manifest.5d9152ec9209eca080c084f001b7878d.js": "/my-portfolio/precache-manifest.5d9152ec9209eca080c084f001b7878d.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
     "static/css/2.59405167.chunk.css.map": "/my-portfolio/static/css/2.59405167.chunk.css.map",
-    "static/css/main.df028674.chunk.css.map": "/my-portfolio/static/css/main.df028674.chunk.css.map",
+    "static/css/main.e8d891c1.chunk.css.map": "/my-portfolio/static/css/main.e8d891c1.chunk.css.map",
     "static/js/2.9253de8b.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.9253de8b.chunk.js.LICENSE.txt",
     "static/media/Me.jpg": "/my-portfolio/static/media/Me.005881dc.jpg",
     "static/media/Nodejs_logo.png": "/my-portfolio/static/media/Nodejs_logo.0ad84c18.png",
@@ -21,7 +21,7 @@
     "static/media/github-icon_cyan.png": "/my-portfolio/static/media/github-icon_cyan.39fde425.png",
     "static/media/index.less": "/my-portfolio/static/media/index.904d64fa.less",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.5d5d9eef.svg",
-    "static/media/quarantinee_app.gif": "/my-portfolio/static/media/quarantinee_app.c0874b3a.gif",
+    "static/media/quarantinee_app.gif": "/my-portfolio/static/media/quarantinee_app.e8c3626c.gif",
     "static/media/weatherDashboard.gif": "/my-portfolio/static/media/weatherDashboard.abf95142.gif",
     "static/media/whiteresume.jpg": "/my-portfolio/static/media/whiteresume.6437b873.jpg",
     "static/media/workDayScheduler.gif": "/my-portfolio/static/media/workDayScheduler.ac82e4db.gif"
@@ -30,7 +30,7 @@
     "static/js/runtime-main.f6d94e01.js",
     "static/css/2.59405167.chunk.css",
     "static/js/2.9253de8b.chunk.js",
-    "static/css/main.df028674.chunk.css",
-    "static/js/main.abf31164.chunk.js"
+    "static/css/main.e8d891c1.chunk.css",
+    "static/js/main.8b9511b0.chunk.js"
   ]
 }
