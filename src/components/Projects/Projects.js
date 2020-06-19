@@ -38,7 +38,7 @@ function Projects() {
                     <div className="card black">
                         <div className="card-content">
                             <div className="card-image">
-                            <a href="https://guis-electric-boogaloo.herokuapp.com/" target="_blank">
+                            <a href="https://quarantinee.herokuapp.com/" target="_blank">
                                 <img src={logo2} alt="logo"
                                 alt="The Quarantinee App!" /></a>
                                     <span className="card-title"></span>
@@ -49,7 +49,7 @@ function Projects() {
                                 </div>
                                 <div class="card-footer" id="cocktailbtn">
                                         <div class="btn-primary center-align">
-                                            <a href="https://guis-electric-boogaloo.herokuapp.com/"
+                                            <a href="https://quarantinee.herokuapp.com/"
                                                 class="btn btn-primary app pulse" target="_blank">Quarantinee App</a>
                                         </div>
                                     </div>
