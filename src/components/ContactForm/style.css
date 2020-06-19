@@ -1,7 +1,13 @@
 #contactCard {
     background-color: white;
+    color: #26a69a;
+}
+
+input {
+    color: white;
 }
 
 #contactHeader {
     color: #26a69a;
 }
+ 

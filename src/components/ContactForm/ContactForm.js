@@ -6,29 +6,28 @@ function ContactForm() {
         <div className="container">
             <div className="row">
                 <div className="col m10 offset-m1 s12">
-                    <div className="card" id="contactCard">
+                    <div className="card black" id="contactCard">
                     <h2 className="center-align">Contact Form</h2>
                     <div className="row">
                         <form className="col m8 offset-m2 s12">
                             <div className="row">
                                 <div className="input-field col s12">
                                 <input id="name" type="text" />
-                            <placeholder for="name">Name</placeholder>
+                            <placeholder forHTML="name">Name</placeholder>
                                 </div>
-                                <div class="input-field col s12">
-                            <input id="email" type="email" class="form-input" />
-                            <placeholder for="email">Email</placeholder>
+                                <div className="input-field col s12">
+                            <input id="email" type="email" className="form-input" />
+                            <placeholder forHTML="email">Email</placeholder>
                         </div>
-                        <div class="input-field col s12">
-                          <textarea id="message" class="materialize-textarea"></textarea>
-                          <placeholder for="message">Message</placeholder>
+                        <div className="input-field col s12">
+                          <input id="textarea1" className="materialize-textarea"></input>
+                          <placeholder forHTML="textarea1">Message</placeholder>
                         </div>
                     </div>
                     
-                    <div class="divider"></div>
-                    <div class="row">
-                        <div class="col m12">
-                         <p class="right-align"><button class="btn btn-large waves-effect waves-light" type="button" name="action">Send Message</button></p>
+                    <div className="row">
+                        <div className="col m12">
+                         <p className="right-align"><button className="btn btn-large waves-effect waves-light" type="button" name="action">Send Message</button></p>
                         </div>
                             </div>
                         </form>
